@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main11() {
+func main1() {
 	/*integers*/
 	var zz int = 0
 
