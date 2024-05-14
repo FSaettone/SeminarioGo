@@ -1,0 +1,5 @@
+Juan,Perez,Bariloche,01/05/1998,true,APU
+María,Gomez,Neuquén,15/12/1990,false,LI
+Carlos,Lopez,Bariloche,22/09/1996,true,LS
+Ana,Garcia,Cipolletti,08/03/2000,true,APU
+Pedro,Rodriguez,Viedma,30/11/1998,true,APU
