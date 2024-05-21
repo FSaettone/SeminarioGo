@@ -145,7 +145,7 @@ func main() {
 
 	b1 := CrearBilletera("Piti Fernandez")
 	b2 := CrearBilletera("Ciro Martinez")
-	b3 := CrearBilletera("Ricardo iorio")
+	b3 := CrearBilletera("Ricardo Iorio")
 
 	bc.AgregarSaldo(b1.ID, 10000.0)
 	bc.AgregarSaldo(b2.ID, 12000.0)
